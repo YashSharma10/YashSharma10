@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yash Sharma <br>B.Tech in Computer Science and Engineering | Full Stack Developer (MERN Stack) | Java and Python Enthusiast | Proficient in Data Structures and Algorithms (DSA)</h2>
+<h2 align="center">Hi 👋! My name is Yash Sharma <br>B.Tech in Computer Science and Engineering | Full Stack Developer (MERN Stack)</h2>
 
 ###
 
