@@ -12,14 +12,8 @@ Hi 👋! My name is Yash Sharma<br>B.Tech in Computer Science and Engineering | 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YashSharma10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YashSharma10&icon=1&color=1)](https://visitcount.itsvg.in)
