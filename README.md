@@ -2,8 +2,6 @@
 
 ## Full Stack Developer | Passionate about creating meaningful digital experiences
 
-I'm a Full Stack Developer with experience in building dynamic, user-centric web applications. I have a passion for simplicity and efficiency in code. I'm continuously learning and honing my skills to craft seamless digital experiences that make a positive impact.
-
 ### 🎓 About Me
 
 - **Currently in 3rd Year of BTech at The Northcap University**
