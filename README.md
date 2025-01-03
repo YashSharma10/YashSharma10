@@ -6,21 +6,21 @@ I'm a Full Stack Developer with experience in building dynamic, user-centric web
 
 ### 🎓 About Me
 
-- **Currently in 3rd Year of BTech**
-- **Aspiring Full Stack Developer** aiming for a position in a top MNC
-- **Experience** in HTML, CSS, Bootstrap, React, Angular, C#, ASP.NET, MongoDB, PL/SQL, and more
-- **Hobbies**: Coding, Problem-Solving, Exploring New Technologies, and Contributing to Open Source
+- **Currently in 3rd Year of BTech at The Northcap University**
+- **Experience** SDE Intern at Maruti Suzuki Ind. Ltd.
+- **Hobbies**: Coding, Problem-Solving, Exploring New Technologies, and Gaming
 
 ### 🚀 Tech Stack
 
-- **Frontend**: React, Angular, HTML5, CSS3, Bootstrap, JavaScript
-- **Backend**: Node.js, Express.js, ASP.NET, C#
-- **Database**: MongoDB, SQL, PostgreSQL
+- **Languages**: C, C#, Python, Java
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React
+- **Backend**: Node.js, Express.js, ASP.NET
+- **Database**: MongoDB, SQL, PLSQL
 - **Version Control**: Git, GitHub
 - **Cloud**: Cloudinary, Firebase
 - **Others**: React Router, Axios, Material UI, RESTful APIs, MVC
 
-### 🔗 Popular Projects
+### 🔗 Popular Projects ( MERN )
 
 - [99Acres](https://github.com/YashSharma10/99Acres) - A real estate platform for buying and selling properties.
 - [CityEase](https://github.com/YashSharma10/CityEase) - A smart city solutions platform for improving urban living.
@@ -42,8 +42,8 @@ Explore more of my projects on my [Projects Repository](https://github.com/YashS
 ### 📫 How to Reach Me
 
 - **Email**: yash.sharma10@example.com
-- **LinkedIn**: [Yash Sharma](https://www.linkedin.com/in/yash-sharma/)
-- **Twitter**: [@YashSharma10](https://twitter.com/YashSharma10)
+- **LinkedIn**: [Yash Sharma](https://www.linkedin.com/in/yashsharma0406)
+- **Twitter**: [@YashSharma10](https://twitter.com/YashSharma0406)
 
 ---
 
