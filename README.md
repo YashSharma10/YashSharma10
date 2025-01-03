@@ -39,7 +39,7 @@ Explore more of my projects on my [Projects Repository](https://github.com/YashS
 
 ### 📫 How to Reach Me
 
-- **Email**: yash.sharma10@example.com
+- **Email**: yashsharma67953@gmail.com
 - **LinkedIn**: [Yash Sharma](https://www.linkedin.com/in/yashsharma0406)
 - **Twitter**: [@YashSharma10](https://twitter.com/YashSharma0406)
 
