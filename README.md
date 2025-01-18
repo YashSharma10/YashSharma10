@@ -15,8 +15,6 @@
 - **Backend**: Node.js, Express.js, ASP.NET
 - **Database**: MongoDB, SQL, PLSQL
 - **Version Control**: Git, GitHub
-- **Cloud**: Cloudinary, Firebase
-- **Others**: React Router, Axios, Material UI, RESTful APIs, MVC
 
 ### 🔗 Popular Projects ( MERN )
 
