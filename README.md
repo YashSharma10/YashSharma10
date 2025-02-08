@@ -20,6 +20,7 @@
 
 - [99Acres](https://github.com/YashSharma10/99Acres) - A real estate platform for buying and selling properties.
 - [CityEase](https://github.com/YashSharma10/CityEase) - A smart city solutions platform for improving urban living.
+- [CarbonEase}(https://github.com/YashSharma10/carbonEase) - A carbon credit trading marketplace to buy and sell credits.
 - [LostAndFound](https://github.com/YashSharma10/LostAndFound) - A website for reporting and tracking lost and found items at The NorthCap University.
 
 ### 💻 Other Projects
