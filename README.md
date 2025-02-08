@@ -1,9 +1,7 @@
 # Hi, I'm Yash Sharma 👋  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=435&lines=Full+Stack+Developer;Passionate+about+Creating+Meaningful+Digital+Experiences)  
-
-## 🚀 Full Stack Developer | Passionate about Creating Meaningful Digital Experiences  
-
+ 
 ### 🎓 About Me  
 
 - **Currently in 3rd Year of B.Tech at The NorthCap University**  
