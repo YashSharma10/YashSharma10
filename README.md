@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=435&lines=Full+Stack+Developer;Passionate+about+Creating+Meaningful+Digital+Experiences)  
  
+
 ### 🎓 About Me  
 
 - **Currently in 3rd Year of B.Tech at The NorthCap University**  
@@ -57,8 +58,11 @@ I'm currently enhancing my **Full Stack Development** skills, focusing on **scal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>  
 
-### 🔝 Top Contributed Repos  
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=YashSharma10&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=dracula" height="150" alt="Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=YashSharma10&theme=dracula&hide_border=true&area=true" height="150" alt="Contribution Graph" />
+</div>  
+
 
 ---  
 
