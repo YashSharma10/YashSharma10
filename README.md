@@ -49,7 +49,7 @@
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yashsharma0406)  
 [![Email](https://img.shields.io/badge/Email-yashsharma67953%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:yashsharma67953@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40YashSharma10-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/YashSharma10)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40YashSharma0406-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/YashSharma0406)  
 
 ---  
 
