@@ -55,9 +55,10 @@
 
 ## 📊 GitHub Stats  
 <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=dracula" height="150" alt="Streak Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />  
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=dracula" height="150" alt="Streak Stats" />   -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=dracula" height="150" alt="Top Languages" />  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="YashSharma10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YashSharma10?cardType=level&preferLogin=false" />  </a>
 </div>  
 
 ---  
