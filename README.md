@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech CSE** | The NorthCap University (GPA: 8.65)  
+- 🎓 **B.Tech CSE** | The NorthCap University (**GPA: 8.65**)  
 - 💼 **SDE Intern @ Maruti Suzuki India Ltd.**  
 - 🏗 **Building Scalable & Secure Systems** with **MERN Stack & Java**.  
 - ⚡ **Tech Enthusiast | Problem Solver | Open Source Contributor**  
@@ -46,22 +46,16 @@
 
 ---  
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yashsharma0406)  [![Email](https://img.shields.io/badge/Email-yashsharma67953%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:yashsharma67953@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-%40YashSharma0406-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/YashSharma0406)  
-
-
-
----  
-
 ## 📊 GitHub Stats  
 <div align="center">  
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=dracula" height="150" alt="Streak Stats" />   -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=dracula" height="150" alt="Top Languages" />  
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="YashSharma10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YashSharma10?cardType=level&preferLogin=false" />  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=radical" height="180" alt="GitHub Trophy" />  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />  
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" height="180" alt="Streak Stats" />   -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />  
 </div>  
 
 ---  
 
-
 🔹 **Let's innovate, code, and build together!** 🚀
+
