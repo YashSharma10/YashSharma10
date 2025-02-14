@@ -54,9 +54,10 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" height="160" alt="Streak Stats" />   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />  
 <!--   <br> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=radical" height="160" alt="Profile Details" />  
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma10&theme=radical" height="160" alt="Repos per Language" />  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashSharma10&theme=radical" height="160" alt="Most Used Language" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=radical" height="160" alt="Profile Details" />  
 </div> 
 
 ---  
