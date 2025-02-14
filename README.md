@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech CSE** | The NorthCap University (**GPA: 8.65**)  
+- 🎓 **B.Tech CSE** | The NorthCap University
 - 💼 **SDE Intern @ Maruti Suzuki India Ltd.**  
 - 🏗 **Building Scalable & Secure Systems** with **MERN Stack & Java**.
 
