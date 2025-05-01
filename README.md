@@ -67,7 +67,7 @@
         <h3>PropertyYatra</h3>
         <img src="https://img.shields.io/badge/MERN-Stack-F7B42C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
         <br>
-        <a href="https://github.com/YashSharma10/PropertyYatra">
+        <a href="https://github.com/YashSharma10/Property-Yatra">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSharma10&repo=PropertyYatra&theme=radical" alt="PropertyYatra" />
         </a>
         <ul align="left">
