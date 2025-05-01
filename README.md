@@ -13,20 +13,7 @@
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me</h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; max-width: 600px;">
-    <p align="left">
-      Aspiring Full Stack Developer passionate about building scalable solutions and solving problems.
-    </p>
-     <p align="left">
-      🎓 <b>B.Tech CSE</b> | The NorthCap University (GPA: 8.65)<br>
-      📱 <b>Phone:</b> 8076107814<br>
-      📧 <b>Email:</b> yashsharma67953@gmail.com<br>
-      🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yashsharma0406/">linkedin.com/in/yashsharma0406</a><br>
-      📍 <b>Location:</b> Gurugram, Haryana
-    </p>
-   
-  </div>
+
 <!--   <div style="flex: 1; max-width: 400px;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U0djN1Nm9mNzFtMWZ5Z3UzbTh5dGdkazB0cjZ2ZWNyZzJwMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="100%"/>
   </div> -->
