@@ -29,15 +29,9 @@
       <td width="50%" align="center">
         <img src="https://img.shields.io/badge/Joblo.ai-SDE%20Intern-F7B42C?style=for-the-badge&logo=javascript&logoColor=white" alt="Joblo.ai"/>
         <br>
-        <b>Feb 2025 - Present | Remote</b>
+        <b>Feb 2025 - May 2025 | Remote</b>
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=Web+Scraping;AI-powered+Chatbot;MongoDB+Optimization;Cross-functional+Collaboration" alt="Joblo.ai Work" />
-        <ul align="left">
-          <li>Implemented web scraping techniques</li>
-          <li>Designed and integrated an AI-powered chatbot</li>
-          <li>Optimized database queries in MongoDB</li>
-          <li>Collaborated with a cross-functional team</li>
-        </ul>
       </td>
       <td width="50%" align="center">
         <img src="https://img.shields.io/badge/Maruti%20Suzuki-SDE%20Intern-F7B42C?style=for-the-badge&logo=angular&logoColor=white" alt="Maruti Suzuki"/>
@@ -45,12 +39,6 @@
         <b>June 2024 - July 2024 | Gurugram</b>
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=ASP.NET+to+Angular+Migration;Full-stack+Development;Agile+Environment;Cross-functional+Collaboration" alt="MSIL Work" />
-        <ul align="left">
-          <li>Migrated the Imported Parts Visual Monitoring System (IPVMS) from ASP.NET to Angular</li>
-          <li>Gained hands-on experience in full-stack development</li>
-          <li>Enhanced debugging and problem-solving skills</li>
-          <li>Partnered with cross-functional teams</li>
-        </ul>
       </td>
     </tr>
   </table>
