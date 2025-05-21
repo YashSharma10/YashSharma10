@@ -158,34 +158,6 @@
 </div>
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Certifications & Achievements</h2>
-</div>
-
-<div align="center">
-  <table border="0" style="width:100%; border-collapse: collapse;">
-    <tr>
-      <td width="50%">
-        <h3>🏆 Achievements</h3>
-        <ul align="left">
-          <li>🎓 Fee Scholarship (1st, 2nd & 3rd Year of UG Studies)</li>
-          <li>🏆 HackUtsav 1.0 Winner (CityEase Project)</li>
-          <li>🥇 Innoverse'36 Winner (CarbonEase Project)</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>📜 Certifications</h3>
-        <ul align="left">
-          <li>☁️ AWS Certified Cloud Practitioner Essentials</li>
-          <li>🐍 NPTEL - Python, Psychology of Learning</li>
-          <li>🍃 MongoDB - Introduction to MongoDB</li>
-          <li>💻 Apna College - Full Stack Development</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Stats</h2>
 </div>
 
