@@ -3,10 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Building+Scalable+%26+Secure+Systems;MERN+Stack+%26+Java+Developer;Passionate+about+solving+real-world+problems;A+curious+soul+navigating+through+life's+complexities" alt="Typing SVG" />
 
-  <a href="https://github.com/YashSharma10"><img src="https://komarev.com/ghpvc/?username=YashSharma10&style=for-the-badge&color=F7B42C" alt="Profile Views"/></a>
-  <a href="https://www.linkedin.com/in/yashsharma0406/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yashsharma67953@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="tel:8076107814"><img src="https://img.shields.io/badge/Phone-8076107814-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+ 
 </div>
 
 <div align="center">
@@ -52,54 +49,46 @@
   <table border="0" style="width:100%; border-collapse: collapse;">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/YashSharma10/Property-Yatra">
-        <h3>PropertyYatra</h3>
+        <h3><a href="https://github.com/YashSharma10/Property-Yatra">PropertyYatra</a></h3>
         <img src="https://img.shields.io/badge/MERN-Stack-F7B42C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
-        <br>
+        <br><br>
         <ul align="left">
-          <li>Built a real estate app using the MERN stack</li>
-          <li>Used a microservice-based backend and integrated ELK stack</li>
-          <li>Gained hands-on experience in secure APIs and full-stack development</li>
+          <li>Real estate web app built using MERN</li>
+          <li>Microservices backend and ELK stack integration</li>
+          <li>Focused on scalable, secure API development</li>
         </ul>
-        </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/YashSharma10/EduEase">
-        <h3>EduEase</h3>
+        <h3><a href="https://github.com/YashSharma10/EduEase">EduEase</a></h3>
         <img src="https://img.shields.io/badge/AI-Powered-F7B42C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered"/>
-        <br>
+        <br><br>
         <ul align="left">
-          <li>Built a personalized e-learning platform</li>
-          <li>Integrated lessons, quizzes, and doubt-solving features</li>
-          <li>Developed using the MERN stack and AI models</li>
+          <li>Personalized e-learning platform using AI</li>
+          <li>Integrated lessons, quizzes, and doubt-solving</li>
+          <li>Built with MERN stack and ML models</li>
         </ul>
-        </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/YashSharma10/CityEase">
-        <h3>CityEase</h3>
+        <h3><a href="https://github.com/YashSharma10/CityEase">CityEase</a></h3>
         <img src="https://img.shields.io/badge/HackUtsav-Winner-F7B42C?style=for-the-badge&logo=hackster&logoColor=white" alt="HackUtsav Winner"/>
-        <br>
+        <br><br>
         <ul align="left">
           <li>Smart city issue reporting system</li>
-          <li>Implemented real-time status updates and analytics dashboard</li>
-          <li>Won HackUtsav 1.0 competition</li>
+          <li>Live status updates & analytics dashboard</li>
+          <li>Winner of HackUtsav 1.0</li>
         </ul>
-         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/YashSharma10/CarbonEase">
-        <h3>CarbonEase</h3>
+        <h3><a href="https://github.com/YashSharma10/CarbonEase">CarbonEase</a></h3>
         <img src="https://img.shields.io/badge/Innoverse'36-Winner-F7B42C?style=for-the-badge&logo=leaf&logoColor=white" alt="Innoverse Winner"/>
-        <br>
+        <br><br>
         <ul align="left">
-          <li>Carbon credit trading platform</li>
-          <li>Implemented blockchain-based verification system</li>
-          <li>Won Innoverse'36 competition</li>
+          <li>Blockchain-based carbon credit trading platform</li>
+          <li>Decentralized and verifiable transactions</li>
+          <li>Winner of Innoverse'36</li>
         </ul>
-        </a>
       </td>
     </tr>
   </table>
@@ -110,6 +99,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Explore+all+projects" alt="Explore all projects" />
   </a>
 </p>
+
 
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Skills & Technologies</h2>
