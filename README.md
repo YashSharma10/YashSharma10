@@ -52,54 +52,54 @@
   <table border="0" style="width:100%; border-collapse: collapse;">
     <tr>
       <td width="50%" align="center">
+        <a href="https://github.com/YashSharma10/Property-Yatra">
         <h3>PropertyYatra</h3>
         <img src="https://img.shields.io/badge/MERN-Stack-F7B42C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
         <br>
-        <a href="https://github.com/YashSharma10/Property-Yatra">
-        </a>
         <ul align="left">
           <li>Built a real estate app using the MERN stack</li>
           <li>Used a microservice-based backend and integrated ELK stack</li>
           <li>Gained hands-on experience in secure APIs and full-stack development</li>
         </ul>
+        </a>
       </td>
       <td width="50%" align="center">
+        <a href="https://github.com/YashSharma10/EduEase">
         <h3>EduEase</h3>
         <img src="https://img.shields.io/badge/AI-Powered-F7B42C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered"/>
         <br>
-        <a href="https://github.com/YashSharma10/EduEase">
-        </a>
         <ul align="left">
           <li>Built a personalized e-learning platform</li>
           <li>Integrated lessons, quizzes, and doubt-solving features</li>
           <li>Developed using the MERN stack and AI models</li>
         </ul>
+        </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
+        <a href="https://github.com/YashSharma10/CityEase">
         <h3>CityEase</h3>
         <img src="https://img.shields.io/badge/HackUtsav-Winner-F7B42C?style=for-the-badge&logo=hackster&logoColor=white" alt="HackUtsav Winner"/>
         <br>
-        <a href="https://github.com/YashSharma10/CityEase">
-        </a>
         <ul align="left">
           <li>Smart city issue reporting system</li>
           <li>Implemented real-time status updates and analytics dashboard</li>
           <li>Won HackUtsav 1.0 competition</li>
         </ul>
+         </a>
       </td>
       <td width="50%" align="center">
+        <a href="https://github.com/YashSharma10/CarbonEase">
         <h3>CarbonEase</h3>
         <img src="https://img.shields.io/badge/Innoverse'36-Winner-F7B42C?style=for-the-badge&logo=leaf&logoColor=white" alt="Innoverse Winner"/>
         <br>
-        <a href="https://github.com/YashSharma10/CarbonEase">
-        </a>
         <ul align="left">
           <li>Carbon credit trading platform</li>
           <li>Implemented blockchain-based verification system</li>
           <li>Won Innoverse'36 competition</li>
         </ul>
+        </a>
       </td>
     </tr>
   </table>
