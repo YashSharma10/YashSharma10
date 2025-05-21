@@ -162,9 +162,7 @@
     </p>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Let's+innovate%2C+code%2C+and+build+together!+🚀" alt="Let's connect" />
-</div>
+
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me</h2>
