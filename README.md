@@ -2,18 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yash%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Building+Scalable+%26+Secure+Systems;MERN+Stack+%26+Java+Developer;Passionate+about+solving+real-world+problems;A+curious+soul+navigating+through+life's+complexities" alt="Typing SVG" />
-
- 
 </div>
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me</h2>
-</div>
-
-
-<!--   <div style="flex: 1; max-width: 400px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U0djN1Nm9mNzFtMWZ5Z3UzbTh5dGdkazB0cjZ2ZWNyZzJwMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="100%"/>
-  </div> -->
 </div>
 
 <div align="center">
@@ -100,7 +92,6 @@
   </a>
 </p>
 
-
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Skills & Technologies</h2>
 </div>
@@ -121,12 +112,6 @@
   <h3>🛠️ DevOps & Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode,selenium&theme=dark" alt="DevOps" />
 </div>
-
-
-
-
- 
-
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30px"> Education</h2>
@@ -162,8 +147,6 @@
 </div>
 
 <div align="center">
-<!--   <details> -->
-<!--     <summary>📊 <b>Click to view my GitHub Stats</b></summary> -->
     <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
     <br>
@@ -177,7 +160,6 @@
     <p>
       <img src="https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=radical&row=1&column=6" alt="GitHub Trophies" />
     </p>
-  </details>
 </div>
 
 <div align="center">
