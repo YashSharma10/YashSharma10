@@ -56,7 +56,6 @@
         <img src="https://img.shields.io/badge/MERN-Stack-F7B42C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
         <br>
         <a href="https://github.com/YashSharma10/Property-Yatra">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSharma10&repo=PropertyYatra&theme=radical" alt="PropertyYatra" />
         </a>
         <ul align="left">
           <li>Built a real estate app using the MERN stack</li>
@@ -69,7 +68,6 @@
         <img src="https://img.shields.io/badge/AI-Powered-F7B42C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered"/>
         <br>
         <a href="https://github.com/YashSharma10/EduEase">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSharma10&repo=EduEase&theme=radical" alt="EduEase" />
         </a>
         <ul align="left">
           <li>Built a personalized e-learning platform</li>
@@ -84,7 +82,6 @@
         <img src="https://img.shields.io/badge/HackUtsav-Winner-F7B42C?style=for-the-badge&logo=hackster&logoColor=white" alt="HackUtsav Winner"/>
         <br>
         <a href="https://github.com/YashSharma10/CityEase">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSharma10&repo=CityEase&theme=radical" alt="CityEase" />
         </a>
         <ul align="left">
           <li>Smart city issue reporting system</li>
@@ -97,7 +94,6 @@
         <img src="https://img.shields.io/badge/Innoverse'36-Winner-F7B42C?style=for-the-badge&logo=leaf&logoColor=white" alt="Innoverse Winner"/>
         <br>
         <a href="https://github.com/YashSharma10/CarbonEase">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSharma10&repo=CarbonEase&theme=radical" alt="CarbonEase" />
         </a>
         <ul align="left">
           <li>Carbon credit trading platform</li>
