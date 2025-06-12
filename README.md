@@ -4,34 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Building+Scalable+%26+Secure+Systems;MERN+Stack+%26+Java+Developer;Passionate+about+solving+real-world+problems;A+curious+soul+navigating+through+life's+complexities" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me</h2>
-</div>
-
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px"> Work Experience</h2>
-</div>
-
-<div align="center">
-  <table border="0" style="width:100%; border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Joblo.ai-SDE%20Intern-F7B42C?style=for-the-badge&logo=javascript&logoColor=white" alt="Joblo.ai"/>
-        <br>
-        <b>Feb 2025 - May 2025 | Remote</b>
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=Web+Scraping;AI-powered+Chatbot;MongoDB+Optimization;Cross-functional+Collaboration" alt="Joblo.ai Work" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Maruti%20Suzuki-SDE%20Intern-F7B42C?style=for-the-badge&logo=angular&logoColor=white" alt="Maruti Suzuki"/>
-        <br>
-        <b>June 2024 - July 2024 | Gurugram</b>
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=ASP.NET+to+Angular+Migration;Full-stack+Development;Agile+Environment;Cross-functional+Collaboration" alt="MSIL Work" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> Featured Projects</h2>
@@ -113,34 +85,6 @@
   <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode,selenium&theme=dark" alt="DevOps" />
 </div>
 
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30px"> Education</h2>
-</div>
-
-<div align="center">
-  <table border="0" style="width:100%; border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/The%20NorthCap%20University-B.Tech%20CSE-F7B42C?style=for-the-badge&logo=university&logoColor=white" alt="NCU"/>
-        <br>
-        <b>2022 - 2026</b>
-        <br>
-        <b>GPA: 8.65</b>
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=Computer+Science+Engineering;Full+Stack+Development;Data+Structures+%26+Algorithms;Machine+Learning" alt="NCU Education" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Sharda%20International%20School-Higher%20Secondary-F7B42C?style=for-the-badge&logo=school&logoColor=white" alt="Sharda School"/>
-        <br>
-        <b>2020 - 2022</b>
-        <br>
-        <b>Class X: 94.6% | Class XII: 91%</b>
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=Science+Stream;Mathematics;Physics;Chemistry;Computer+Science" alt="School Education" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Stats</h2>
