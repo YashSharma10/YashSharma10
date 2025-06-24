@@ -5,64 +5,6 @@
 </div>
 
 
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> Featured Projects</h2>
-</div>
-
-<div align="center">
-  <table border="0" style="width:100%; border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/YashSharma10/Property-Yatra">PropertyYatra</a></h3>
-        <img src="https://img.shields.io/badge/MERN-Stack-F7B42C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
-        <br><br>
-        <ul align="left">
-          <li>Real estate web app built using MERN</li>
-          <li>Microservices backend and ELK stack integration</li>
-          <li>Focused on scalable, secure API development</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/YashSharma10/EduEase">EduEase</a></h3>
-        <img src="https://img.shields.io/badge/AI-Powered-F7B42C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered"/>
-        <br><br>
-        <ul align="left">
-          <li>Personalized e-learning platform using AI</li>
-          <li>Integrated lessons, quizzes, and doubt-solving</li>
-          <li>Built with MERN stack and ML models</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/YashSharma10/CityEase">CityEase</a></h3>
-        <img src="https://img.shields.io/badge/HackUtsav-Winner-F7B42C?style=for-the-badge&logo=hackster&logoColor=white" alt="HackUtsav Winner"/>
-        <br><br>
-        <ul align="left">
-          <li>Smart city issue reporting system</li>
-          <li>Live status updates & analytics dashboard</li>
-          <li>Winner of HackUtsav 1.0</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/YashSharma10/CarbonEase">CarbonEase</a></h3>
-        <img src="https://img.shields.io/badge/Innoverse'36-Winner-F7B42C?style=for-the-badge&logo=leaf&logoColor=white" alt="Innoverse Winner"/>
-        <br><br>
-        <ul align="left">
-          <li>Blockchain-based carbon credit trading platform</li>
-          <li>Decentralized and verifiable transactions</li>
-          <li>Winner of Innoverse'36</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <a href="https://github.com/YashSharma10?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Explore+all+projects" alt="Explore all projects" />
-  </a>
-</p>
 
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Skills & Technologies</h2>
