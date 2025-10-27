@@ -90,76 +90,6 @@ const yash = {
 
 ---
 
-## 💼 Professional Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Building+Solutions+%7C+Creating+Impact+%F0%9F%9A%80" />
-
-</div>
-
-<br/>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
-
-### 🚗 **Volkswagen Group** · Software Engineer Trainee
-<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
-
-```yaml
-Role: Building AI-Powered Solutions for Enterprise
-Tech: OpenShift · LLM · Prometheus · Grafana · Kubernetes
-```
-
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
-
-### 🎨 **SaarthiAi** (Freelance) · Frontend Developer
-<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
-
-```yaml
-Role: Crafting Modern Web Experiences
-Tech: React.js · TypeScript · Tailwind CSS · Performance Optimization
-```
-
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-808080?style=flat-square" width="100%" />
-
-### 🤖 **Joblo.ai** · Software Development Intern
-<img src="https://img.shields.io/badge/Feb_2025-May_2025-808080?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Completed-808080?style=flat-square&logo=checkmarx&logoColor=white" />
-
-```yaml
-Role: AI Integration & Data Engineering
-Tech: OpenAI · MongoDB · Python · Web Scraping · Data Pipelines
-```
-
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-808080?style=flat-square" width="100%" />
-
-### 🏢 **Maruti Suzuki** · Software Development Intern
-<img src="https://img.shields.io/badge/Jun_2024-Jul_2024-808080?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Completed-808080?style=flat-square&logo=checkmarx&logoColor=white" />
-
-```yaml
-Role: Enterprise Application Modernization
-Tech: ASP.NET · Angular · Agile · Enterprise Systems
-```
-
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
-
 </div>
 
 <div align="center">
@@ -170,50 +100,6 @@ Tech: ASP.NET · Angular · Agile · Enterprise Systems
 
 </div>
 
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🥇-Winner-FFD700?style=for-the-badge" /><br/>
-<b>Hack Utsav 1.0</b><br/>
-<sub>City Ease Project</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🥇-Winner-FFD700?style=for-the-badge" /><br/>
-<b>Innoverse'36</b><br/>
-<sub>Carbon Ease</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎓-Scholarship-00C853?style=for-the-badge" /><br/>
-<b>Merit Award</b><br/>
-<sub>3 Consecutive Years</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/☁️-Certified-FF9900?style=for-the-badge" /><br/>
-<b>AWS Practitioner</b><br/>
-<sub>Cloud Computing</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻-Certified-4CAF50?style=for-the-badge" /><br/>
-<b>Full Stack Dev</b><br/>
-<sub>Apna College</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🍃-Certified-13AA52?style=for-the-badge" /><br/>
-<b>MongoDB</b><br/>
-<sub>Database Design</sub>
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=7%2B+Professional+Certifications+%F0%9F%93%9C;Multiple+Hackathon+Wins+%F0%9F%8F%86;Consistent+Academic+Excellence+%F0%9F%8E%93" />
 
 </div>
 
@@ -237,17 +123,8 @@ Tech: ASP.NET · Angular · Agile · Enterprise Systems
 
 
 
-### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&custom_title=Yash's%20Contribution%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=5BCDEC&area=true&hide_border=true&title_color=5BCDEC" width="100%"/>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 📊 Detailed Stats
 
