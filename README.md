@@ -2,28 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=YASH%20SHARMA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Learner+%F0%9F%A4%96;Microservices+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%AA" alt="Typing SVG" />
+
 
 <br/>
 
-<a href="https://linkedin.com/in/yashsharma0406">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:yashsharma67953@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-<a href="https://github.com/YashSharma10">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio"/>
-</a>
-<a href="https://www.google.com/maps/place/Gurugram">
-  <img src="https://img.shields.io/badge/Gurugram-India-00C853?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=00C853" alt="Location"/>
-</a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YashSharma10&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&animated=true" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YashSharma10?style=for-the-badge&logo=github&color=blue&animated=true" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/YashSharma10?style=for-the-badge&logo=github&color=yellow&animated=true" alt="GitHub stars"/>
 
 </div>
 
@@ -68,9 +51,12 @@ const yash = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-</div>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YashSharma10&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&animated=true" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/YashSharma10?style=for-the-badge&logo=github&color=blue&animated=true" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/YashSharma10?style=for-the-badge&logo=github&color=yellow&animated=true" alt="GitHub stars"/>
 
 ---
 
