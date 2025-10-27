@@ -108,103 +108,79 @@ const yash = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Volkswagen-151515?style=for-the-badge&logo=volkswagen&logoColor=white" />
-</div>
-
-###  **Volkswagen Group**
-
-**Software Engineer Trainee**  
-<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square" />
-
-🔹 LLM-based Chatbot Development  
-🔹 AI Cybersecurity Tools  
-🔹 OpenShift Deployments  
-🔹 Monitoring with Prometheus & Grafana
-
-<div align="center">
-<!-- <img src="https://progress-bar.dev/100/?title=Active&width=200&color=00C853" /> -->
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/SaarthiAi-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-###  **SaarthiAi** (Freelance)
-
-**Frontend Developer**  
-<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square" />
-
-🔹 4+ React.js Client Websites  
-🔹 Responsive UI/UX Design  
-🔹 Performance Optimization  
-🔹 35% Page Load Improvement
-
-<div align="center">
-<!-- <img src="https://progress-bar.dev/100/?title=Active&width=200&color=00C853" /> -->
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Joblo.ai-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
-</div>
-
-###  **Joblo.ai**
-
-**Software Development Intern**  
-<img src="https://img.shields.io/badge/Feb_2025-May_2025-808080?style=flat-square" />
-
-🔹 OpenAI Chatbot Integration  
-🔹 10K+ Job Listings Scraped  
-🔹 50% MongoDB Query Optimization  
-🔹 Automated Data Pipelines
-
-<div align="center">
-<!-- <img src="https://progress-bar.dev/100/?title=Completed&width=200&color=808080" /> -->
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Maruti_Suzuki-E60000?style=for-the-badge&logo=suzuki&logoColor=white" />
-</div>
-
-###  **Maruti Suzuki**
-
-**Software Development Intern**  
-<img src="https://img.shields.io/badge/Jun_2024-Jul_2024-808080?style=flat-square" />
-
-🔹 ASP.NET → Angular Migration  
-🔹 Agile Team Collaboration  
-🔹 IPVMS Enhancement  
-🔹 Debugging Workflow Improvement
-
-<div align="center">
-<!-- <img src="https://progress-bar.dev/100/?title=Completed&width=200&color=808080" /> -->
-</div>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Building+Solutions+%7C+Creating+Impact+%F0%9F%9A%80" />
 
 </div>
 
+<br/>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
+
+### 🚗 **Volkswagen Group** · Software Engineer Trainee
+<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
+
+```yaml
+Role: Building AI-Powered Solutions for Enterprise
+Tech: OpenShift · LLM · Prometheus · Grafana · Kubernetes
+```
+
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
+
+### 🎨 **SaarthiAi** (Freelance) · Frontend Developer
+<img src="https://img.shields.io/badge/Aug_2025-Present-00C853?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
+
+```yaml
+Role: Crafting Modern Web Experiences
+Tech: React.js · TypeScript · Tailwind CSS · Performance Optimization
+```
+
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-808080?style=flat-square" width="100%" />
+
+### 🤖 **Joblo.ai** · Software Development Intern
+<img src="https://img.shields.io/badge/Feb_2025-May_2025-808080?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Completed-808080?style=flat-square&logo=checkmarx&logoColor=white" />
+
+```yaml
+Role: AI Integration & Data Engineering
+Tech: OpenAI · MongoDB · Python · Web Scraping · Data Pipelines
+```
+
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-808080?style=flat-square" width="100%" />
+
+### 🏢 **Maruti Suzuki** · Software Development Intern
+<img src="https://img.shields.io/badge/Jun_2024-Jul_2024-808080?style=flat-square&logo=calendar&logoColor=white" /> <img src="https://img.shields.io/badge/Completed-808080?style=flat-square&logo=checkmarx&logoColor=white" />
+
+```yaml
+Role: Enterprise Application Modernization
+Tech: ASP.NET · Angular · Agile · Enterprise Systems
+```
+
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-5BCDEC?style=flat-square" width="100%" />
+
+</div>
 
 <div align="center">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000"> -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=%F0%9F%92%BC+4+Professional+Experiences;%F0%9F%8E%AF+Enterprise+to+Startup+Exposure;%F0%9F%9A%80+From+Intern+to+Full-Time+Engineer" />
 
 </div>
 
@@ -273,9 +249,7 @@ const yash = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=YashSharma10&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&icon_color=5BCDEC&combine_all_yearly_contributions=true" />
 
-### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
 
 ### 📈 Contribution Graph
 
@@ -419,19 +393,12 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="700">
 
 </div>
 
 ---
 
-<div align="center">
 
-## 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
-
-</div>
 
 ---
 
