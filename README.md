@@ -265,7 +265,7 @@ me.say_hi()
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### ⚡ _"Building the future, one commit at a time"_ ⚡
 
@@ -279,7 +279,7 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-</div>
+</div> -->
 
 ---
 
