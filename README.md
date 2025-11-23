@@ -23,8 +23,6 @@
 ```javascript
 const yash = {
   location: "🇮🇳 Gurugram, India",
-  role: "Software Engineer Trainee",
-  company: "Volkswagen Group",
   education: {
     degree: "B.Tech CSE",
     university: "The NorthCap University",
@@ -37,13 +35,9 @@ const yash = {
     "Cloud Native Solutions",
   ],
   currentlyLearning: [
-    "🤖 AI/ML Engineering",
-    "🧠 LLM Integration",
-    "📊 MLOps Pipelines",
-  ],
-  currentProjects: [
-    "Aisha 2.0 - LLM Chatbot",
-    "Smart Vulnerability Classifier",
+    "AI/ML Engineering",
+    "LLM Integration",
+    "MLOps Pipelines",
   ],
   motto: "Code with purpose, deploy with confidence ⚡",
 };
