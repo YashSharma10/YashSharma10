@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=180&section=header&text=Yash%20Sharma&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20DevOps%20|%20AI%2FML&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=180&section=header&text=Yash%20Sharma&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=750&lines=Building+scalable+web+systems;Designing+clean+backend+architectures;Shipping+production-ready+software;Learning+AI-powered+engineering" />
 
