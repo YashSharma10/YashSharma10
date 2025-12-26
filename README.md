@@ -1,12 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=YASH%20SHARMA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20DevOps%20%7C%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=180&section=header&text=Yash%20Sharma&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20DevOps%20|%20AI%2FML&descSize=18" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=750&lines=Building+scalable+web+systems;Designing+clean+backend+architectures;Shipping+production-ready+software;Learning+AI-powered+engineering" />
 
+</div>
 
-<br/>
+---
 
+## About
 
+Full Stack Developer focused on **scalable web applications**, **AI-powered systems**, and **cloud-native architectures**.  
+Comfortable working across frontend, backend, and DevOps with a strong emphasis on reliability and clean design.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,nextjs,spring,nodejs,fastapi,mongodb,mysql,docker,kubernetes,aws,git&perline=8&theme=dark" />
+
+</div>
+
+---
+
+## What I Build
+
+- AI-driven platforms using modern backend frameworks  
+- Microservice-based systems with observability  
+- High-performance frontends  
+- End-to-end systems with CI/CD and cloud deployment  
+
+---
+
+## GitHub Activity & Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Flow
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&bg_color=0d1117&color=58a6ff&line=ff7a18&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Open To
+
+- Full-time software roles  
+- Open-source collaboration  
+- Backend and Full Stack projects  
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/YashSharma10">GitHub</a> ·
+<a href="https://linkedin.com/in/yashsharma0406">LinkedIn</a> ·
+<a href="mailto:yashsharma67953@gmail.com">Email</a>
 
 </div>
 
@@ -14,273 +79,8 @@
 
 <div align="center">
 
-## 🌟 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=900&color=00ffcc&center=true&vCenter=true&width=600&lines=Consistent+progress;Clean+code+over+hype;Focused+on+real-world+engineering" />
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-</div>
-
-```javascript
-const yash = {
-  location: "🇮🇳 Gurugram, India",
-  education: {
-    degree: "B.Tech CSE",
-    university: "The NorthCap University",
-    cgpa: "8.73/10",
-    year: "2022-2026",
-  },
-  expertise: [
-    "Full Stack Development",
-    "DevOps Engineering",
-    "Cloud Native Solutions",
-  ],
-  currentlyLearning: [
-    "AI/ML Engineering",
-    "LLM Integration",
-    "MLOps Pipelines",
-  ],
-  motto: "Code with purpose, deploy with confidence ⚡",
-};
-```
-
-<div align="center">
-
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YashSharma10&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&animated=true" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YashSharma10?style=for-the-badge&logo=github&color=blue&animated=true" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/YashSharma10?style=for-the-badge&logo=github&color=yellow&animated=true" alt="GitHub stars"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,nodejs,react,angular,express,spring,fastapi,flask,tailwind,html,css&perline=8&theme=dark" />
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,elasticsearch,aws&perline=5&theme=dark" />
-
-### 🛠️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,bitbucket,prometheus,grafana,git,linux,bash,nginx,kafka&perline=6&theme=dark" />
-
-### 🎨 Design & Other Tools
-
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea&perline=6&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
----
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=%F0%9F%92%BC+4+Professional+Experiences;%F0%9F%8E%AF+Enterprise+to+Startup+Exposure;%F0%9F%9A%80+From+Intern+to+Full-Time+Engineer" />
-
-</div>
-
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=FFA500&currStreakLabel=5BCDEC&date_format=M%20j%5B%2C%20Y%5D" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=YashSharma10&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&icon_color=5BCDEC&combine_all_yearly_contributions=true" />
-
-
-
-
-
-
-### 📊 Detailed Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=tokyonight" width="100%" />
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma10&theme=tokyonight" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashSharma10&theme=tokyonight" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashSharma10&theme=tokyonight" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashSharma10&theme=tokyonight&utcOffset=5.5" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-</div>
-
----
-
-## 🎯 Current Focus & Learning Path
-
-```python
-class YashSharma:
-    def __init__(self):
-        self.name = "Yash Sharma"
-        self.role = "Full Stack Developer + DevOps Engineer"
-        self.language_spoken = ["hi_IN", "en_US"]
-
-        self.core_stack = {
-            "frontend": ["React ⚛️", "Angular 🅰️", "Next.js ▲"],
-            "backend": ["Spring Boot 🍃", "FastAPI ⚡", "Node.js 🟢"],
-            "devops": ["Docker 🐳", "Kubernetes ☸️", "OpenShift 🔴"],
-            "cloud": ["AWS ☁️", "Prometheus 📊", "Grafana 📈"],
-            "database": ["MongoDB 🍃", "MySQL 🐬", "ElasticSearch 🔍"]
-        }
-
-        self.learning_roadmap_2025 = [
-            "🤖 Advanced AI/ML Engineering",
-            "🧠 LLM Fine-tuning & RAG Systems",
-            "📊 MLOps & Model Deployment",
-            "🏗️ System Design at Scale",
-            "🔐 Advanced Kubernetes Security"
-        ]
-
-    def current_projects(self):
-        return {
-            "Aisha 2.0": "Production LLM Chatbot 🤖",
-            "Vulnerability Classifier": "AI Cybersecurity Tool 🛡️",
-            "Personal": "Learning ML Engineering 📚"
-        }
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = YashSharma()
-me.say_hi()
-```
-
-<div align="center">
-
-### 📚 Currently Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=5BCDEC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI%2FML+Engineering+%F0%9F%A4%96;LLM+Fine-tuning+%26+RAG+Systems+%F0%9F%A7%A0;MLOps+%26+Model+Deployment+%F0%9F%93%8A;System+Design+at+Scale+%F0%9F%8F%97%EF%B8%8F;Advanced+Kubernetes+Security+%F0%9F%94%90" />
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="500">
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💼 Professional
-
-<a href="https://linkedin.com/in/yashsharma0406">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:yashsharma67953@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YashSharma10">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-### 📱 Quick Contact
-
-📍 **Location:** Gurugram, Haryana, India  
-📞 **Phone:** +91 8076107814  
-✉️ **Email:** yashsharma67953@gmail.com  
-💼 **Status:** Open to Opportunities
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Open+for+Collaborations;%F0%9F%92%BC+Looking+for+Full-Time+Roles;%F0%9F%9A%80+Let's+Build+Together!" />
-
-</div>
-
-<div align="center">
-
-
-</div>
-
----
-
-
-
----
-
-<!-- <div align="center">
-
-### ⚡ _"Building the future, one commit at a time"_ ⚡
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5BCDEC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Typing SVG" />
-
-<br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YashSharma10.YashSharma10&left_color=5BCDEC&right_color=0D1117&left_text=Visitors)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div> -->
-
----
-
-<div align="center">
-  
-**[⬆️ Back to Top](#)**
-
-**Made with ❤️ by [Yash Sharma](https://github.com/YashSharma10)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%E2%AD%90;Star+my+repos+if+you+like+them!;Happy+Coding!+%F0%9F%92%BB" />
