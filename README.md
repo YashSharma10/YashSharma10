@@ -36,14 +36,17 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 ## GitHub Activity & Stats
 
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YashSharma10&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="42%" />
 
 </div>
+
 
 ---
 
