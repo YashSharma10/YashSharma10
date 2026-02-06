@@ -34,6 +34,52 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 ---
 
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true&background=0D1117&stroke=58a6ff&ring=1f6feb&fire=ff7a18&currStreakLabel=58a6ff" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashSharma10&theme=radical&utcOffset=5.5" width="49%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&bg_color=0D1117&color=58a6ff&line=1f6feb&point=ff7a18&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=radical" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+
+</div>
+
+---
+
 ## Open To
 
 - Full-time software roles  
