@@ -34,32 +34,6 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 ---
 
-## GitHub Activity & Stats
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=YashSharma10&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="42%" />
-
-</div>
-
-
----
-
-## Contribution Flow
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&bg_color=0d1117&color=58a6ff&line=ff7a18&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## Open To
 
 - Full-time software roles  
