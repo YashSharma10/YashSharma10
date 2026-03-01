@@ -48,12 +48,11 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 <table>
   <tr>
-    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10" alt="GitHub Stats" /></td>
-    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=languages" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /></td>
   </tr>
   <tr>
-    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=contributions" alt="Contributions" /></td>
-    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=top-repos" alt="Top Repos" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
@@ -71,11 +70,44 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📋 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=radical)
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma10&theme=radical" alt="Repos Per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashSharma10&theme=radical" alt="Most Commit Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashSharma10&theme=radical" alt="Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashSharma10&theme=radical&utcOffset=5.5" alt="Productive Time (IST)" /></td>
+  </tr>
+</table>
 
 </div>
 
