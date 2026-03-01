@@ -46,13 +46,16 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 <div align="center">
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10)
-
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=languages)
-
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=contributions)
-
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=top-repos)
+<table>
+  <tr>
+    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10" alt="GitHub Stats" /></td>
+    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=languages" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=contributions" alt="Contributions" /></td>
+    <td><img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=YashSharma10&type=top-repos" alt="Top Repos" /></td>
+  </tr>
+</table>
 
 </div>
 
