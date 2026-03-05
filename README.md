@@ -70,27 +70,7 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YashSharma10/YashSharma10/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YashSharma10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
