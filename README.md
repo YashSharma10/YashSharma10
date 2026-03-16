@@ -42,19 +42,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart&perline=5&theme=dark" />
 
 **Languages**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter&perline=5&theme=dark" />
 
-**Frontend**
+**Frontend · Mobile**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi&perline=5&theme=dark" />
 
 **Backend**
 
@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions,figma&perline=6&theme=dark" />
 
 **DevOps · Cloud · Tools**
 
