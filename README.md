@@ -1,115 +1,212 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=180&section=header&text=Yash%20Sharma&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=750&lines=Building+scalable+web+systems;Designing+clean+backend+architectures;Shipping+production-ready+software;Learning+AI-powered+engineering" />
+<!-- <br/> -->
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=63D2FF&center=true&vCenter=true&width=750&lines=const+role+%3D+%22Full+Stack+Developer%22%3B;const+focus+%3D+%5B%22Microservices%22%2C+%22AI+Integration%22%2C+%22Cloud%22%5D%3B;const+status+%3D+%22Open+to+opportunities%22%3B;while(true)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" /> -->
+
+[![](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=63d2ff&labelColor=0d1117)](https://github.com/YashSharma10)
+[![](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=63d2ff&labelColor=0d1117)](https://linkedin.com/in/yashsharma0406)
+[![](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=63d2ff&labelColor=0d1117)](mailto:yashsharma67953@gmail.com)
+[![](https://komarev.com/ghpvc/?username=YashSharma10&style=for-the-badge&color=63d2ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/YashSharma10)
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-Full Stack Developer focused on **scalable web applications**, **AI-powered systems**, and **cloud-native architectures**.  
-Comfortable working across frontend, backend, and DevOps with a strong emphasis on reliability and clean design.
-
-### 🎯 Current Focus
-- Building production-grade microservices
-- Exploring AI/ML integration in web systems
-- Contributing to open-source projects
-- Optimizing cloud infrastructure
-
----
-
-## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,nextjs,spring,nodejs,fastapi,mongodb,mysql,docker,kubernetes,aws,git&perline=8&theme=dark" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > whoami                                                       ║
+║                                                                  ║
+║   Name    : Yash Sharma                                          ║
+║   Role    : Full Stack Developer                                 ║
+║   Base    : India                                                ║
+║   Stack   : Java · Python · TypeScript · React · Spring · AWS    ║
+║   Focus   : Scalable Systems · AI Platforms · Cloud-Native       ║
+║   Status  : [ OPEN TO OPPORTUNITIES ]                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## TECH STACK
 
-- 🤖 AI-driven platforms using modern backend frameworks  
-- 🔧 Microservice-based systems with observability  
-- ⚡ High-performance frontends with React/Next.js  
-- ☁️ End-to-end systems with CI/CD and cloud deployment  
-- 📊 Real-time data processing applications
-- 🔐 Secure authentication and authorization systems
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&perline=4&theme=dark" />
+
+**Languages**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular&perline=3&theme=dark" />
+
+**Frontend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&perline=3&theme=dark" />
+
+**Backend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4&theme=dark" />
+
+**Databases**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions&perline=5&theme=dark" />
+
+**DevOps · Cloud · Tools**
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GITHUB METRICS
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=63d2ff&icon_color=a78bfa&text_color=8899bb&ring_color=63d2ff" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&hide_border=true&background=0d1117&ring=63d2ff&fire=a78bfa&currStreakLabel=63d2ff&sideLabels=8899bb&dates=8899bb&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&hide_border=true&bg_color=0d1117&title_color=63d2ff&text_color=8899bb&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&bg_color=0d1117&color=63d2ff&line=a78bfa&point=ffffff&area=true&area_color=1a2a4a&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+
+---
+
+## PROFILE BREAKDOWN
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=github_dark" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma10&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashSharma10&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashSharma10&theme=github_dark&utcOffset=5.5" width="32%" />
+
+</div>
+
+---
+
+## WHAT I BUILD
 
 <div align="center">
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YashSharma10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma10&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma10&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+
+**AI-POWERED PLATFORMS**
+
+RAG pipelines · LLM APIs
+Real-time inference backends
+Production ML systems
+
+</td>
+<td align="center" width="33%">
+
+**MICROSERVICE SYSTEMS**
+
+Distributed architecture
+Kafka · Service mesh
+Observability stacks
+
+</td>
+<td align="center" width="33%">
+
+**CLOUD-NATIVE INFRA**
+
+Kubernetes · Terraform
+CI/CD · GitOps
+AWS deployments
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**HIGH-PERFORMANCE UI**
+
+React · Next.js
+Real-time WebSocket UIs
+Performance-first builds
+
+</td>
+<td align="center" width="33%">
+
+**AUTH & SECURITY**
+
+OAuth2 · JWT rotation
+RBAC · SSO
+Multi-tenant systems
+
+</td>
+<td align="center" width="33%">
+
+**REAL-TIME APPS**
+
+Stream processing
+Event-driven architecture
+Live data dashboards
+
+</td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## CURRENTLY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma10&bg_color=0d1117&color=58a6ff&line=ff7a18&point=ffffff&area=true&hide_border=true" width="100%" />
+```yaml
+building:
+  - Production-grade microservices with Spring Boot + Kafka
+  - AI-integrated platforms using LLM APIs and RAG
+  - Cloud-native deployments on AWS EKS
 
-</div>
+learning:
+  - Advanced distributed systems patterns
+  - ML model serving and inference optimization
 
----
-
-
-
----
-
-## 📋 Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma10&theme=radical)
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma10&theme=radical" alt="Repos Per Language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YashSharma10&theme=radical" alt="Most Commit Language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashSharma10&theme=radical" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashSharma10&theme=radical&utcOffset=5.5" alt="Productive Time (IST)" /></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💼 Open To
-
-- 💻 Full-time software engineering roles  
-- 🤝 Open-source collaboration  
-- 🔧 Backend and Full Stack projects  
-- 📱 Freelance opportunities
-- 🎯 Technical consulting
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashSharma10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashsharma0406)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsharma67953@gmail.com)
+open_to:
+  - Full-time Software Engineering roles
+  - Backend and Full Stack projects
+  - Open-source collaboration
+  - Technical consulting
+```
 
 </div>
 
@@ -117,8 +214,7 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
 
 </div>
 
@@ -126,10 +222,6 @@ Comfortable working across frontend, backend, and DevOps with a strong emphasis 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=900&color=00ffcc&center=true&vCenter=true&width=600&lines=Consistent+progress;Clean+code+over+hype;Focused+on+real-world+engineering;Always+learning%2C+always+building" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" />
-
-[![](https://visitcount.itsvg.in/api?id=YashSharma10&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:a78bfa,100:63d2ff&height=130&section=footer&animation=twinkling&reversal=true" width="100%"/>
 
 </div>
