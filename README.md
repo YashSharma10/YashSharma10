@@ -187,28 +187,6 @@ Live data dashboards
 
 ---
 
-## CURRENTLY
-
-<div align="center">
-
-```yaml
-building:
-  - Production-grade microservices with Spring Boot + Kafka
-  - AI-integrated platforms using LLM APIs and RAG
-  - Cloud-native deployments on AWS EKS
-
-learning:
-  - Advanced distributed systems patterns
-  - ML model serving and inference optimization
-
-open_to:
-  - Full-time Software Engineering roles
-  - Backend and Full Stack projects
-  - Open-source collaboration
-  - Technical consulting
-```
-
-</div>
 
 ---
 
